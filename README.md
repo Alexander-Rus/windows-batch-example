@@ -8,6 +8,10 @@
 
 This is a simple repo with two simple Window's batch examples.
 
+One batch file will open Youtube.com in a browser window.
+
+The second batch file will sort items in a folder into folders based on extension. 
+
 ## 🚀 Quick start
 
 
